@@ -151,7 +151,6 @@
       <div
         class="max-w-screen-xl px-4 py-16 mx-auto space-y-8 sm:px-6 lg:space-y-16 lg:px-8"
       >
-        <!-- <div class="grid grid-cols-1 lg:grid-cols-3 border-2 border-red-500"> -->
         <div class="lg:flex items-start flex-wrap space-y-6 lg:space-y-0">
           <div class="lg:w-3/12">
             <p class="font-bold font-mono text-2xl text-gray-900">

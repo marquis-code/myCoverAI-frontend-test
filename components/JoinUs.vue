@@ -25,10 +25,6 @@
         </div>
       </div>
     </div>
-
-    <!-- <div class="absolute left-0">
-      <img src="@/assets/images/arrowMask.svg" alt="" />
-    </div> -->
   </main>
 </template>
 

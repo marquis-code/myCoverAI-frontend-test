@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "myCoverAI",
   "private": true,
   "scripts": {
     "build": "nuxt build",
